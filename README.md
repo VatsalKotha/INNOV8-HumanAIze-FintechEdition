@@ -87,7 +87,7 @@ Once the application is running, you can explore the following features:
 - **AI-Driven Base Plan Recommendations:** Get personalized insurance plan recommendations based on your user profile.
 - **Customizable Insurance Plan Generator:** Tailor an insurance plan to your specific needs and receive dynamic pricing instantly.
 
-### Active Contributors 🚀
+## Active Contributors 🚀
 <hr>
 <p align="start">
 <a  href="[https://github.com/MihirRajeshPanchal/Final-Year-Project-Drone/graphs/contributors](https://github.com/buddhadevyash/INNOV8-HumanAIze-FintechEdition/graphs/contributors)">
