@@ -88,7 +88,33 @@ def Home():
     with total5:
         st.info('Ratings', icon="💰")
         st.metric(label="Rating", value=numerize(rating), help=f""" Total Rating: {rating} """)
-    style_metric_cards(background_color="#FFFFFF", border_left_color="#686664", border_color="#000000", box_shadow="#F71938")
+
+    style_metric_cards(background_color="#000000", border_left_color="#ffffff", border_color="#000000", box_shadow="#ffffff")
+
+    # Add custom CSS to change all text in metric cards to white
+    st.markdown("""
+    <style>
+    [data-testid="stMetricValue"] {
+        color: white !important;
+    }
+    [data-testid="stMetricLabel"] {
+        color: white !important;
+    }
+    .stAlert {
+        color: white !important;
+        background-color: rgba(0, 0, 0, 0.5) !important;
+    }
+    .stAlert svg {
+        fill: white !important;
+    }
+    div[data-testid="stMetricValue"] > div {
+        color: white !important;
+    }
+    div[data-testid="stMetricLabel"] > div {
+        color: white !important;
+    }
+    </style>
+    """, unsafe_allow_html=True)
 
     # Variable distribution Histogram
     with st.expander("DISTRIBUTIONS BY FREQUENCY"):

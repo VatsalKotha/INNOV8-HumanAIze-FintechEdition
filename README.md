@@ -1,6 +1,7 @@
-# Revolutionizing Insurance with SmartSure
+# Revolutionizing Insurance with **SmartSure**!
+![](https://i.ibb.co/3s7JppM/Insurance-logo.png)
 
-Welcome to SmartSure, a groundbreaking project designed to revolutionize the insurance industry through advanced AI technologies. This project was developed as part of Hack2Skill’s HumanAIze Hackathon <FinTech Edition> powered by YouData.ai.
+Welcome to **SmartSure**, a groundbreaking project designed to revolutionize the insurance industry through advanced AI technologies. This project was developed as part of **Hack2Skill’s HumanAIze Hackathon (FinTech Edition)** powered by **YouData.ai**.
 
 ## Table of Contents
 
@@ -15,9 +16,6 @@ Welcome to SmartSure, a groundbreaking project designed to revolutionize the ins
 - [Active Contributors](#active-contributors)
 - [Contributing](#contributing)
 - [License](#license)
-
-## Blog
-## [Read full project details here!](https://medium.com/@yashbuddhadev21/transforming-insurance-with-ai-revolutionizing-customer-experience-and-operational-efficiency-3ac30094eca7)
 
 ## Features
 
@@ -49,6 +47,17 @@ Welcome to SmartSure, a groundbreaking project designed to revolutionize the ins
 - **Datasets:** Utilizes data from a YouData.ai dataset.
 - **Performance:** Provides dynamic pricing with 95% accuracy compared to traditional actuarial methods.
 - **Impact:** Generates personalized plans in under 5 seconds based on 6 key parameters: age, gender, profession, fitness score, insurance type, and coverage amount.
+
+## Blog Link: https://medium.com/@yashbuddhadev21/transforming-insurance-with-ai-revolutionizing-customer-experience-and-operational-efficiency-3ac30094eca7
+
+## Also we would like to extend our heartfelt gratitude to YouData.ai for providing us and all the participants with such apt and informative datasets, it wouldn't have been possible for us to develop such models without these insightful collection of data. Heres a folder link to all the datasets we have used from YouData.ai.
+
+## Dataset Folder from YouData.ai: https://datalink.youdata.ai/3kbn2nxa
+
+## The entire project is up and running, here's the link of the Streamlit Deployment: https://innov8smartsure.streamlit.app/.
+
+## Link to the Demo Video: https://drive.google.com/drive/folders/1dosfLK6HFvX-EtngrKTxC8XtXdx2_7gC
+
 
 ## Installation
 
@@ -84,6 +93,7 @@ Once the application is running, you can explore the following features:
 - **Fitness Score Calculator:** Input your health metrics to calculate your fitness score and potential premium discounts.
 - **AI-Driven Base Plan Recommendations:** Get personalized insurance plan recommendations based on your user profile.
 - **Customizable Insurance Plan Generator:** Tailor an insurance plan to your specific needs and receive dynamic pricing instantly.
+- **Dynamic Business Dashboard:** Real-time sales insights specially tailored on the parameters of your choice along with their respective visualizations.
 
 ## Active Contributors 🚀
 <hr>
